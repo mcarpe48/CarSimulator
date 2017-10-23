@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Oct 02 12:15:12 EDT 2017
+2.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8894a275107c243479dd901a2974cefc04ad6c21
+count=7
+0.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_hello_world.xml
+5.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5180f9af56e81dd9859e986a31667d8190a6ffb\\classes.dex
+1.set=DEX
+2.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_hello_world.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5180f9af56e81dd9859e986a31667d8190a6ffb
+4.file=C\:\\Users\\Matt\\AndroidStudioProjects\\android_hello_world-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8894a275107c243479dd901a2974cefc04ad6c21\\classes.dex
+0.set=ANDROID_RESOURCE
